@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Here is my research](./research-landing.md)
+[Here is my research](./research)
 
 You can use the [editor on GitHub](https://github.com/samsonajohnson/samsonajohnson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
