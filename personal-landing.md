@@ -10,5 +10,3 @@ I'm oringally from Lolo, Montana. I went to Sentinel High School. I did my under
 ### Rock Climbing
 I spend a lot of my free time rock climbing. I usually climb at the OSU gym (OAC) or Vertical Adventures/Chambers in Columbus, Ohio. I have climbed at Red River Gorge and Mad River Gorge, and will be getting outside a lot more often.
 
-### Magic: The Gathering
-One of my favorite games is Magic: The Gathering. I feel like I learned to read playing Magic with my family. 
