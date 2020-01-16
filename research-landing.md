@@ -1,5 +1,7 @@
 ---
 layout: default
+permalink: /research
+title: Research
 ---
 
 This is a page about my research. Enjoy!
@@ -7,6 +9,7 @@ This is a page about my research. Enjoy!
 
 Here are links to all blog posts?
 
+<!--
 <ul>
   {% for post in site.posts %}
     <li>
@@ -14,3 +17,4 @@ Here are links to all blog posts?
     </li>
   {% endfor %}
 </ul>
+-->
