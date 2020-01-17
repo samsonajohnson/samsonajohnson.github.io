@@ -4,7 +4,9 @@
 Understanding our place in the universe is something I often thought about, and I am thrilled to get paid to do it now. 
 -->
 
-### [Here is a page summarizing my work.](./research) You might also be looking for my [CV](./assets/pdf/s_johnson_cv.pdf). 
+### [Here is a page summarizing my work.](./research) 
+
+### You might also be looking for my [CV](./assets/pdf/s_johnson_cv.pdf). 
 
 <!--
 You can use the [editor on GitHub](https://github.com/samsonajohnson/samsonajohnson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
