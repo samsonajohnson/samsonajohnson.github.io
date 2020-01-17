@@ -1,4 +1,4 @@
-
+![Me](~/assets/img/head_crop.jpeg)
 My name is Samson Johnson, and I am a fourth year graduate student in the Ohio State University Department of Astronomy. 
 
 [Here is my research](./research)
