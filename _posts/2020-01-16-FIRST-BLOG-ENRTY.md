@@ -6,5 +6,7 @@ author: me
 ---
 
 This could be a first post? 
+
 <!--more-->
+
 I have made an excerpt. I am actually having a ton of fun with Jekyll so far.
