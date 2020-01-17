@@ -1,4 +1,5 @@
 title: Samson A Johnson
 description: Astro grad student
 theme: jekyll-theme-minimal
-excerpt_separator: <!--excerpt-->
+excerpt_separator: <!-excerpt-> 
+
