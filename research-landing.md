@@ -3,7 +3,7 @@ layout: default
 permalink: /research
 title: Research
 ---
-# Research
+# page.title
 
 This is a page about my research. Enjoy!
 
