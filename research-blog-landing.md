@@ -20,6 +20,6 @@ A few recent posts are below, and the archive is here. I love talking about scie
       </a>
     </h2>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
+    {{ post.excerpt }}
   </article>
 {% endfor %}
