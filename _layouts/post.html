@@ -12,7 +12,7 @@ layout: default
 {% if author %}
     <span>
         <!-- Personal Info. -->
-        <p class="view">by {{ page.author | default: site.author }}</p>
+        <p class="view">by {{ author.name | default: site.author }}</p>
     </span>
 {% endif %}
 
