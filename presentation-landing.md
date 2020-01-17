@@ -3,7 +3,9 @@ layout: default
 permalink: /presentations
 title: Presentations
 ---
-In an effort to make my talks more accesible, I will host links to PDF versions of slides and written notes for talks I am giving here. 
+# {{page.title}}
+
+I host links to PDF versions of slides and written notes for talks I am giving here. 
 
 ### LINK TO CURRENT TALK
 

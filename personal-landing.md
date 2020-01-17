@@ -4,6 +4,8 @@ permalink: /personal
 title: Personal
 ---
 
+# {{page.title}}
+
 ### Life
 I'm oringally from Lolo, Montana. I went to Sentinel High School. I did my undergrad at University of Montana. It has a small physics program, but this is where I found my love for astronomy. I also did a lot of math there. 
 
