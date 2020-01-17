@@ -7,5 +7,5 @@ excerpt_separator: <!-ex->
 ---
 
 This could be a first post? 
-<!-ex->
+<!--more-->
 I have made an excerpt. I am actually having a ton of fun with Jekyll so far.
