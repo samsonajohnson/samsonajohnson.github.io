@@ -12,7 +12,7 @@ I used to keep a local research/work log, but now that I have a website I'm goin
 A few recent posts are below, and the archive is here. I love talking about science, so please ask questions or point cool things out to me!
 
 
-{% for post in site.posts.last %}
+{% for post in site.posts.first %}
   <article>
     <h2>
       <a href="{{ post.url }}">
