@@ -12,6 +12,16 @@ I used to keep a local research/work log, but now that I have a website I'm goin
 A few recent posts are below, and the archive is here. I love talking about science, so please ask questions or point cool things out to me!
 
 
+<article>
+<h2>
+      <a href="{{ post.last.url }}">
+        {{ post.last.title }}
+      </a>
+    </h2>
+ <time datetime="{{ post.last.date | date: "%Y-%m-%d" }}">{{ post.last.date | date_to_long_string }}</time>
+    {{ post.last.excerpt }}
+  </article>
+  
 {% for post in site.posts.first %}
   <article>
     <h2>
