@@ -21,16 +21,5 @@ A few recent posts are below, and the archive is here. I love talking about scie
     </h2>
  <time datetime="{{ site.posts.last.date | date: "%Y-%m-%d" }}">{{ site.posts.last.date | date_to_long_string }}</time>
     {{ site.posts.last.excerpt }}
-<\article>
+</article>
   
-{% for post in site.posts %}
-  <article>
-    <h2>
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.excerpt }}
-  </article>
-{% endfor %}
