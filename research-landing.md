@@ -19,7 +19,7 @@ I also spent the summer of 2019 working on making an extinction map towards the 
 
 Here is blurb on MINERVA.
 
-### [SUPERNOVAE](./research-pages/supernovae.md)
+### [SUPERNOVAE](./research-pages/supernovae-progenitors.md)
 
 I have done research on supernovae, as well. Using Large Binocular Telescope data, I worked with Chris Kochanek on extracting photometry of supernovae progenitors in the final years before the exploded. We were able to place constraints on their brightness variations. 
 
