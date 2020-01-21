@@ -35,6 +35,7 @@ else
     cp ../_drafts/post_template.md ../_posts/$FILENAME
     #insert post title
     sed -i '/title/ s/$/ \"'"$TITLE"'\"/' ../_posts/$FILENAME
+    sed -i '/date/ s/$/ \"'"$TODAY"'\"/' ../_posts/$FILENAME
     git add ../_posts/$FILENAME
 fi 
 
