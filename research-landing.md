@@ -9,15 +9,11 @@ This is a page about my research. Enjoy!
 
 ### [WFIRST](./research-pages/wfirst.md)
 
-They main focus of my work has been predictions for the WFIRST micorlensing survey. I am about to publish a paper on what WFIRST can help us learn about the frequency of free-floating planets. I am working on what WFIRST will tell us about the frequency of Earth-analog systems. 
-
-In conjuction, I am working on a modular Galactic population-synthesis model with an OSU undergraduate. This model is meant to be public and easily customizable. This will be publically available soon. 
-
-I also spent the summer of 2019 working on making an extinction map towards the Galactic bulge using UKIRT data. This is another work in progress, related to WFIRST.
+They main focus of my work over the past two years has been on predictions for the WFIRST micorlensing survey. Microlensing searches for exoplanets are sensitive to those in wider orbits (1-10 times that of the Earth's orbit). It is senstive to the mass-ratio of the planet and the star, so extra observations are required to obtain a true mass of the planet. This will be the first microlensing survey from space, and it promises to 'complete the exoplanet census', or at least be a great compliment to the *Kepler* survey. 
 
 ### [MINERVA](./research-pages/minerva.md)
 
-Here is blurb on MINERVA.
+During my undergrad and a break year, I worked with the MINature Exoplanet Radial Velocity Array (MINERVA). The observatory is aimed to search for exoplanets using the radial velocity (RV) technique. I worked on a lot of the automation and operation of the robotic observatory, and learned a lot about instrumentation in astronomy. 
 
 ### [SUPERNOVAE](./research-pages/supernovae-progenitors.md)
 
