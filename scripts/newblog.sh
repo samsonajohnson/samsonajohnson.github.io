@@ -1,10 +1,20 @@
 #!/bin/bash
 
-if [ $# -eq 0 ]; then
+echo $0
+posts_dir="${0%/*}"/../_posts
+drafts_dir="${0%/*}"/../_drafts
+echo $mydir
+
+
+#Check if the post for the day exists, if not then require title.
+if [ ! ls $posts_dir/$TODAY*> /dev/null 2>&1 ]
+then
+
+    if [ $# -eq 0 ]; then
         echo "Usage: ./newblogpost.sh <post title>; Post Title Like This"
         exit
+    fi
 fi
-
 
 
 #get the date
@@ -25,22 +35,25 @@ done
 #add the extension
 FILENAME="$FILENAME.md"
 
-if ls ../_posts/$TODAY*> /dev/null 2>&1
+if ls $posts_dir/$TODAY*> /dev/null 2>&1
 then
-    echo "$TODAY already used in " ../_posts/$TODAY*
+    echo "$TODAY already used in " _posts/$TODAY*
 
 else
-    echo "Creating $FILENAME"
+    echo "Creating _posts/$FILENAME"
     #copy over template
-    cp ../_drafts/post_template.md ../_posts/$FILENAME
+    cp $drafts_dir/post_template.md $posts_dir/$FILENAME
     #insert post title
-    sed -i '/title/ s/$/ \"'"$TITLE"'\"/' ../_posts/$FILENAME
-    sed -i '/date/ s/$/ \"'"$TODAY"'\"/' ../_posts/$FILENAME
-    git add ../_posts/$FILENAME
+    sed -i '/title/ s/$/ \"'"$TITLE"'\"/' $posts_dir/$FILENAME
+    sed -i '/date/ s/$/ \"'"$TODAY"'\"/' $posts_dir/$FILENAME
+    git add $posts_dir/$FILENAME
 fi 
 
+sleep 1
 
-#sed -ri 's/^(\s*)(title\s*:\s* \"Post Title\"\s*$)/\1title: '"$1"'/' ../_posts/$FILENAME
+emacs -nw $posts_dir/$TODAY*
+
+#sed -ri 's/^(\s*)(title\s*:\s* \"Post Title\"\s*$)/\1title: '"$1"'/' $posts_dir/$FILENAME
 #echo "sed -ri 's/^(\s*)(image\s*:\s*\s*$)/\1image: '"$1"'/' ../_post/$FILENAME"
 
 #echo $TITLE
