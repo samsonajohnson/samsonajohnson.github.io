@@ -2,6 +2,7 @@
 layout: post
 title:  "This Is A Test "
 date: 2020-01-20 01:00:00
+permalink: /test
 author: me
 ---
 This is just to test a new dir structure, same post.
