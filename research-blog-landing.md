@@ -12,14 +12,14 @@ I used to keep a local research/work log, but now that I have a website I'm goin
 A few recent posts are below, and the archive is here. I love talking about science, so please ask questions or point cool things out to me!
 
 
-
+{% assign post = site.posts.first %}
 <article>
 <h2>
-      <a href="{{ site.posts.last.url }}">
-        {{ site.posts.last.title }}
+      <a href="{{ post.url }}">
+        {{ post.title }}
       </a>
     </h2>
- <time datetime="{{ site.posts.last.date | date: "%Y-%m-%d" }}">{{ site.posts.last.date | date_to_long_string }}</time>
-    {{ site.posts.last.excerpt }}
+ <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    {{ post.excerpt }}
 </article>
   
