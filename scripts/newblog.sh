@@ -1,24 +1,24 @@
 #!/bin/bash
 
-echo $0
 posts_dir="${0%/*}"/../_posts
 drafts_dir="${0%/*}"/../_drafts
-echo $mydir
 
+#get the date
+TODAY=$(date +"%Y-%m-%d")
 
+#FILENAME="$TODAY"
+
+#ls $posts_dir/$TODAY* 
+#echo $posts_dir
 #Check if the post for the day exists, if not then require title.
-if [ ! ls $posts_dir/$TODAY*> /dev/null 2>&1 ]
+if ! ls $posts_dir/$TODAY* > /dev/null 2>&1  ;
 then
-
     if [ $# -eq 0 ]; then
         echo "Usage: ./newblogpost.sh <post title>; Post Title Like This"
         exit
     fi
+
 fi
-
-
-#get the date
-TODAY=$(date +"%Y-%m-%d")
 
 FILENAME="$TODAY"
 
@@ -32,10 +32,13 @@ do
     FILENAME="$FILENAME-$capvar"
 done
 
+#remove trailing and leading spaces
+TITLE="$(echo -e "${TITLE}" | sed -e 's/^[[:space:]]*//' -e 's/[[:space:]]*$//')"
+
 #add the extension
 FILENAME="$FILENAME.md"
 
-if ls $posts_dir/$TODAY*> /dev/null 2>&1
+if ls $posts_dir/$TODAY*> /dev/null 2>&1 ;
 then
     echo "$TODAY already used in " _posts/$TODAY*
 
