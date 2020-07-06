@@ -1,7 +1,9 @@
 ![Me](./assets/img/head_crop.jpeg)
+<!--
 <p align="center">(My hair is long now.)</p>
+-->
 
-### I am a fourth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. My research drive is to put Earth into context in the Galaxy. 
+### I am a fourth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
 <!--
 Understanding our place in the universe is something I often thought about, and I am thrilled to get paid to do it now. 
 -->
