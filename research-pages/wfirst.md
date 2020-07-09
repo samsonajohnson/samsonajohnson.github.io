@@ -7,7 +7,7 @@ title: *Roman* Galactic Exoplanet Survey
 
 They main focus of my work has been predictions for the *Roman* Galactic Exoplanet Survey. I recently put out a paper on what *Roman* can help us learn about the frequency of free-floating planets. I am working on what *Roman* will tell us about the frequency of Earth-analog systems. 
 
-![limit_plot](../assets/pdf/limit_plot_comp.pdf)
+![limit_plot](../assets/img/limit_plot_comp.png)
 
 The above plot shows the 95% confidence limit *Roman* will be able to place on populations of free-floating planetary mass objects in the Milky Way if it makes no detections. Think of the vertical axis as $$M_p dN/d\log{M_p}$$. This value sits well below the current best limits, and will test many predictions from planet formation (the gray markers). For information, see the recent paper [here](https://ui.adsabs.harvard.edu/abs/2020arXiv200610760J/abstract).
 
