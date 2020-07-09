@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /research-pages/wfirst
-title: *Roman* Galactic Exoplanet Survey
+title: Roman Galactic Exoplanet Survey
 ---
 # {{page.title}}
 
