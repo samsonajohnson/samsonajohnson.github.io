@@ -13,11 +13,11 @@ They main focus of my work over the past two years has been on predictions for t
 
 ### [MINERVA](./research-pages/minerva.md)
 
-During my undergrad and a break year, I worked with the MINature Exoplanet Radial Velocity Array (MINERVA). The observatory is aimed to search for exoplanets using the radial velocity (RV) technique. I worked on a lot of the automation and operation of the robotic observatory, and learned a lot about instrumentation in astronomy. 
+During my undergrad and a break year, I worked with the MINature Exoplanet Radial Velocity Array ([MINERVA](https://www.cfa.harvard.edu/minerva/)). The observatory is aimed to search for exoplanets using the radial velocity (RV) technique. I worked on a lot of the automation and operation of the robotic observatory, and learned a lot about instrumentation in astronomy. 
 
-### [SUPERNOVAE](./research-pages/supernovae-progenitors.md)
+### [SUPERNOVAE PROGENITORS](./research-pages/supernovae-progenitors.md)
 
-I have done research on supernovae, as well. Using Large Binocular Telescope data, I worked with Chris Kochanek on extracting photometry of supernovae progenitors in the final years before the exploded. We were able to place constraints on their brightness variations. 
+I have done research on supernovae, as well. Using [Large Binocular Telescope](https://www.lbto.org/) data, I worked with [Chris Kochanek](https://astronomy.osu.edu/people/kochanek.1) on extracting photometry of supernovae progenitors in the final years before the exploded. We were able to place constraints on their brightness variations. 
 
 <!--
 <ul>
