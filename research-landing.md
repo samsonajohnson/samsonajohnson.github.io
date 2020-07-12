@@ -5,7 +5,7 @@ title: Research
 ---
 # {{page.title}}
 
-This is a page about my research. Enjoy!
+This is a summary page about my research. Click the title of each for a more detailed page.
 
 ### [*Nancy Grace Roman Space Telescope (Roman)*](./research-pages/wfirst.md)
 
