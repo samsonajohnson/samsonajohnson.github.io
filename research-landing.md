@@ -7,7 +7,7 @@ title: Research
 
 This is a summary page about my research. Click the title of each for a more detailed page.
 
-### [*Nancy Grace Roman Space Telescope (Roman)*](./research-pages/wfirst.md)
+### [*Nancy Grace Roman Space Telescope (Roman)*](./research-pages/romanst.md)
 
 They main focus of my work over the past two years has been on predictions for the [*Roman*](https://roman.gsfc.nasa.gov/) Galactic Exoplanet Surevy. Microlensing searches for exoplanets are sensitive to those in wider orbits (1-10 times that of the Earth's orbit). It is senstive to the mass-ratio of the planet and the star, so extra observations are required to obtain a true mass of the planet. This will be the first microlensing survey from space, and it promises to 'complete the exoplanet census', or at least be a great compliment to the *Kepler* survey. 
 
