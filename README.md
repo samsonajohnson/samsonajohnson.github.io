@@ -1,14 +1,11 @@
 ![Me](./assets/img/head_crop.jpeg)
 
 
-### I am a fourth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
-<!--
-Understanding our place in the universe is something I often thought about, and I am thrilled to get paid to do it now. 
--->
+### I am a fifth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
 
 ### [Here is a page summarizing my work.](./research) 
 
-### You might also be looking for my [CV](./assets/pdf/s_johnson_cv.pdf). 
+### [You might also be looking for my CV](./assets/pdf/s_johnson_cv.pdf). 
 
 <!--
 You can use the [editor on GitHub](https://github.com/samsonajohnson/samsonajohnson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
