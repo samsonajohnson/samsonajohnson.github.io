@@ -1,7 +1,7 @@
 ![Me](./assets/img/head_crop.jpeg)
 
 
-### I am a fifth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
+### I am a sixth year graduate student in the Ohio State University Department of Astronomy. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
 
 ### [Here is a page summarizing my work.](./research) 
 
