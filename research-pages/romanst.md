@@ -1,13 +1,13 @@
 ---
 layout: default
 permalink: /research-pages/romanst
-title: Roman Galactic Exoplanet Survey
+title: Roman Galactic Bulge Time Domain Survey
 ---
 # {{page.title}}
 
 ## Free-floating Planets
 
-They main focus of my work has been predictions for the *Roman* Galactic Exoplanet Survey. I recently put out a paper on what *Roman* can help us learn about the frequency of free-floating planets. If these rogue planets have the same distribution as cold planets that are bound to host stars, roughly 250 will be detected by *Roman*.
+They main focus of my work has been predictions for the *Roman* Galactic Bulge Time Domain Survey. I recently put out a paper on what *Roman* can help us learn about the frequency of free-floating planets. If these rogue planets have the same distribution as cold planets that are bound to host stars, roughly 250 will be detected by *Roman*.
 
 ![limit_plot](../assets/img/limit_plot_comp.png)
 
@@ -30,7 +30,7 @@ In conjuction, I am working on a modular Galactic population-synthesis model wit
 
 ## Dust Map of the Galactic Center
 
-I also spent the summer of 2019 working on making an extinction map towards the Galactic bulge using UKIRT data. I am advising OSU undergraduate [Aiden Zelakiewicz](https://www.linkedin.com/in/zelakiewicz) to finish this work, which will be used in finding the final location the *Roman* Galactic Exoplanet Survey fields.
+I also spent the summer of 2019 working on making an extinction map towards the Galactic bulge using UKIRT data. I am advising OSU undergraduate [Aiden Zelakiewicz](https://www.linkedin.com/in/zelakiewicz) to finish this work, which will be used in finding the final location the *Roman* Galactic Bulge Time Domain Survey fields.
 ![A_K](../assets/img/A_K.png)
 
 ## Predicting *Roman*'s ability to detect primordial black holes 
