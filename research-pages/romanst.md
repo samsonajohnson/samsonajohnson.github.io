@@ -13,6 +13,11 @@ They main focus of my work has been predictions for the *Roman* Galactic Exoplan
 
 The above plot shows the 95% confidence limit *Roman* will be able to place on populations of free-floating planetary mass objects in the Milky Way if it makes no detections. Think of the vertical axis as $$M_p dN/d\log{M_p}$$. This value sits well below the current best limits, and will test many predictions from planet formation (the gray markers). For information, see the recent paper [here](https://ui.adsabs.harvard.edu/abs/2020arXiv200610760J/abstract).
 
+In pursuing these predictions on free-floating planets, we uncovered a multi-parameter degeneracy for microlensing events that show extreme finite source effects. This degeneracy can be mathematically severe (see figure below, where nine light curves almost perfectly overlap despite having very different parameters), its physical extent can be constrained. For details on this degeneracy, see the recent paper [here](https://ui.adsabs.harvard.edu/abs/2021arXiv210908161J/abstract). 
+
+
+![degen_plot](../assets/img/eta_example_1.1.png)
+
 ## Earth-analog Systems
 I am working on what *Roman* will tell us about the frequency of Earth-analog systems. While *Roman* will not have the best sensitivity to these planets, it will for those with larger star-planet separations and higher mass planets. With these, *Roman* detections can be used to extrapolate to the parameter space region of interest. This is shown in the figure below, which plot shows a simulated drawing of *Roman* detected planets. Note that the semi-major axis has been scaled to that of equivalent flux if the planet orbitted the Sun, and we use [Chen & Kipping (2016)](https://ui.adsabs.harvard.edu/abs/2017ApJ...834...17C/abstract) to scale mass to radius of the planets. 
 
