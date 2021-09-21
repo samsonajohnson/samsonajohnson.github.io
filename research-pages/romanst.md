@@ -30,5 +30,9 @@ In conjuction, I am working on a modular Galactic population-synthesis model wit
 
 ## Dust Map of the Galactic Center
 
-I also spent the summer of 2019 working on making an extinction map towards the Galactic bulge using UKIRT data. This is another work in progress and will be used in finding the final location the *Roman* Galactic Exoplanet Survey fields.
+I also spent the summer of 2019 working on making an extinction map towards the Galactic bulge using UKIRT data. I am advising OSU undergraduate [Aiden Zelakiewicz](https://www.linkedin.com/in/zelakiewicz) to finish this work, which will be used in finding the final location the *Roman* Galactic Exoplanet Survey fields.
 ![A_K](../assets/img/A_K.png)
+
+## Predicting *Roman*'s ability to detect primordial black holes 
+
+I am co-advising OSU undergraduate Rachel Slaybaugh on making predictions on the constraints *Roman* will be able to place on the fraction of the Milky Way halo composed of Earth-mass primordial black holes through a microlensing survey toward M31. 
