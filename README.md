@@ -1,5 +1,12 @@
 ![Me](./assets/img/head_crop.jpeg)
 
+---
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 ### I am a NASA Postdoctoral Fellow at NASA's Jet Propulsion Laboratory. The focus of my research is exoplanet detection and demographics. I want to understand Earth's context in the Galaxy. 
 
