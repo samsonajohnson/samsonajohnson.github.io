@@ -4,9 +4,9 @@
 
 ### I am no longer working in astronomy but I am always happy to help in any way I can. Please feel free to contact me with any requests at my personal email. 
 
-### I owe a huge gratitude to all the mentors who helped me in my decade in the field: Scott Gaudi, Christopher Kochanek, Geoffrey Bryden, and Nathan McCrady. I also want to thank all the colleagues, classmates, and friends who made this journey such an influential chapter in my life. I always tried to give more back than I got, but this was difficult as everyone was so very generous with their time and thoughts. 
+# I owe a huge gratitude to all the mentors who helped me in my decade in the field: Scott Gaudi, Christopher Kochanek, Geoffrey Bryden, and Nathan McCrady. I also want to thank all the colleagues, classmates, and friends who made this journey such an influential chapter in my life. I always tried to give more back than I got, but this was difficult as everyone was so very generous with their time and thoughts. 
 
-### I leave knowing the field is in good hands. There is so much work left to be done, so much to discover. But there is a surplus of amazing people to do that work. I'll be watching from the sidelines, always cheering you all on. 
+# I leave knowing the field is in good hands. There is so much work left to be done, so much to discover. But there is a surplus of amazing people to do that work. I'll be watching from the sidelines, always cheering you all on. 
 
 ### [I leave a final copy of my CV here just in case](./assets/pdf/samson_johnson_cv.pdf). 
 
